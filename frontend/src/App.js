@@ -18,7 +18,7 @@ export default function App() {
         {page === "tracker" && <DecisionTracker />}
         {page === "patterns" && <PatternAnalysis />}
         {page === "alerts" && <Alerts />}
-        {page === "simulator" && <Simulator />}
+        {page === "simulator" && <Simulator />}cd
       </div>
     </div>
   );
